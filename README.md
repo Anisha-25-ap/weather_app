@@ -32,7 +32,7 @@ A simple and clean weather application built using HTML, CSS, and JavaScript tha
 ---
 
 ## 🚀 Getting Started
-
+![Demo](.demo.png)
 ### 📁 Clone the repository
 ```bash
 git clone https://github.com/your-username/weather-app.git
