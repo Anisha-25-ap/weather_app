@@ -34,18 +34,14 @@ A simple and clean weather application built using HTML, CSS, and JavaScript tha
 ## 🚀 Getting Started
 ![Demo](.demo.png)
 
-## Live Demo
+## 🌐 Live Demo
 
-🔗 https://beamish-yeot-055182.netlify.app/
-
-
-### 📁 Clone the repository
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+🚀 https://beamish-yeot-055182.netlify.app/
 
 
-const apikey = "79aea6bbde03f90d89b5fced79def369";
+## 📂 Repository
+
+GitHub: https://github.com/Anisha-25-ap/Weather-App
 
 weather-app/
 │
