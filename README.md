@@ -6,9 +6,7 @@ A simple and clean weather application built using HTML, CSS, and JavaScript tha
 
 ## 📸 Preview
 
-![Weather App Screenshot](images/weather-preview.png) <!-- Replace with actual image path or GitHub image URL -->
-
----
+![Demo](ss/demo.png)
 
 ## 🔧 Tech Stack
 
